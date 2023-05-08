@@ -9,6 +9,10 @@
     "start": "node server.js",
     "demo": "nodemon -e js,css,html server.js --port=5000 --stat=demo"
   },
+  "repository": {
+	  "type": "git",
+	  "url": "git+https://github.com/comp426-2023-spring/e02-tanatc1256.git"
+  },
   "keywords": [
     "node",
     "html",
@@ -20,7 +24,7 @@
     "express",
     "server"
   ],
-  "author": "@jdmar3",
+  "author": "@tanatc1256",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "express": "^4.18.2",
